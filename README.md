@@ -5,3 +5,4 @@ Mvp 代码生成模板，一键生成Activity、Fragment、Presenter、View、xm
 重启Android Studio
 
 进入工作代码目录，在要创建代码的包上面右键选择New -> Mvp ->Mvp Activity,填写Activity、Fragment、Presenter、View、xml文件名字，点击Finish即可自动生成代码。
+https://github.com/Margnus/MvpCodeTemplate/blob/master/new.png
